@@ -6,7 +6,7 @@ This was implemented corresponding to Thesis format for science students. <br />
 
 This template is for thesis written in English.
 
-Created by: Thamarak Khampeerpat, Chaiporn Jaikaeo <br />
+Created by: Thamarak Khampeerpat, Asst.Prof.Dr.Chaiporn Jaikaeo <br />
 Revised and updated by: Supavit Kongwudhikunakorn
 
-If you have any question or suggestions, please feel free to contact supavit.knot@gmail.com
+If you have any question or suggestions, please feel free to contact me at supavit.knot@gmail.com
